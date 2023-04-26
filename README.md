@@ -3,7 +3,7 @@ It's always bothered me how low quality the maps for Sky in FFXI.  With the popu
 
 ## Installation
 ### Preferred Method:
-Move 'skyhdmaps' folder into your [XIPivot](https://github.com/Shirk/XIPivot) 'DATs' folder and then load it above other map dats you might have in game so it overwrites them.
+Move `skyhdmaps` folder into your [XIPivot](https://github.com/Shirk/XIPivot) `DATs` folder and then load it above other map dats you might have in game so it overwrites them.
 
 ### Manual Method:
-Copy 'ROM' folder to your 'FINAL FANTASY XI' directory and choose "Yes" when prompted to overwrite.  
+Copy 'ROM' folder to your `FINAL FANTASY XI` directory and choose "Yes" when prompted to overwrite.  
