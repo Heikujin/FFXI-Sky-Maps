@@ -1,2 +1,2 @@
 # FFXI-Sky-Maps
-asads
+## Upscaled Sky Maps
